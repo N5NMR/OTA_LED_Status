@@ -2,8 +2,8 @@
 #include "wifi_connect.h"        // 👉 Eigene WiFi-Verbindungs-Bibliothek (z.B. wifi_connect-Funktion)
 
 // 📶 WLAN-Zugangsdaten (hier freies WLAN ohne Passwort)
-const char* ssid = "IHG ONE REWARDS Free WI-FI";
-const char* password = "";       // 👉 Leeres Passwort für offenes WLAN
+const char* ssid = "WIFI NAME";
+const char* password = "PASSWORD";       // 
 
 void setup() 
 {
